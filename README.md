@@ -71,7 +71,8 @@ Me chamo Kauan Martins Constancio, tenho 18 anos e sou natural do Espírito Sant
 
 ### 📊 Estatísticas
 
-<p>
+<p
+    display: flex;>
   <img 
     align="left" 
     alt="GitHub Stats" 
