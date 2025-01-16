@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Kauan Martins Constancio, tenho 18 anos e sou natural do Espírito Santo. Atualmente estou cursando Ensino Médio na Instituição Aristóbulo Barbosa Leão. Pretendo fortemente ao finalizar meus estudos ingressar na faculdade de Engenharia de Software por meio da Estácio. Sou apaixonado por tecnologia.
+Me chamo Kauan Martins Constancio, tenho 18 anos e sou natural do Espírito Santo. Atualmente estou cursando Engenharia de Softweare na Instituição de Ensino Estácio. Sou apaixonado por tecnologia e super dedicado.
 
 <p align="left">
     <a href="https://github.com/kauanconstancio?tab=repositories&sort=stargazers">
