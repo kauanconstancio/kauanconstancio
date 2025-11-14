@@ -103,7 +103,7 @@ Me chamo Kauan Martins Constancio, tenho 19 anos e sou natural do Espírito Sant
     title="Typescript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Ftypescript&psig=AOvVaw2YhyL6S-WPSGe_edSo6q1Z&ust=1763233389153000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjThrCq8pADFQAAAAAdAAAAABAE)" 
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" 
 />
 
 <br/>
